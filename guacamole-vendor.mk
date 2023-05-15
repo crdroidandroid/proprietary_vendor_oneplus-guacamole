@@ -328,6 +328,9 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/guacamole/proprietary/vendor/firmware/80ms_RTP_166Hz.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/80ms_RTP_166Hz.bin \
     vendor/oneplus/guacamole/proprietary/vendor/firmware/80ms_RTP_170Hz.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/80ms_RTP_170Hz.bin \
     vendor/oneplus/guacamole/proprietary/vendor/firmware/80ms_RTP_174Hz.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/80ms_RTP_174Hz.bin \
+    vendor/oneplus/guacamole/proprietary/vendor/firmware/a640_zap.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/a640_zap.b01 \
+    vendor/oneplus/guacamole/proprietary/vendor/firmware/a640_zap.elf:$(TARGET_COPY_OUT_VENDOR)/firmware/a640_zap.elf \
+    vendor/oneplus/guacamole/proprietary/vendor/firmware/a640_zap.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/a640_zap.mdt \
     vendor/oneplus/guacamole/proprietary/vendor/firmware/aw8697_About_School_RTP_17.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw8697_About_School_RTP_17.bin \
     vendor/oneplus/guacamole/proprietary/vendor/firmware/aw8697_Appear_channel_RTP_coloros7_123.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw8697_Appear_channel_RTP_coloros7_123.bin \
     vendor/oneplus/guacamole/proprietary/vendor/firmware/aw8697_Bliss_RTP_18.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw8697_Bliss_RTP_18.bin \
@@ -523,6 +526,12 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/guacamole/proprietary/vendor/firmware/barca_alarm_ring_RTP_120.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/barca_alarm_ring_RTP_120.bin \
     vendor/oneplus/guacamole/proprietary/vendor/firmware/barca_incoming_ring_RTP_121.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/barca_incoming_ring_RTP_121.bin \
     vendor/oneplus/guacamole/proprietary/vendor/firmware/barca_notice_ring_RTP_122.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/barca_notice_ring_RTP_122.bin \
+    vendor/oneplus/guacamole/proprietary/vendor/firmware/ipa_fws.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/ipa_fws.b01 \
+    vendor/oneplus/guacamole/proprietary/vendor/firmware/ipa_fws.elf:$(TARGET_COPY_OUT_VENDOR)/firmware/ipa_fws.elf \
+    vendor/oneplus/guacamole/proprietary/vendor/firmware/ipa_fws.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/ipa_fws.mdt \
+    vendor/oneplus/guacamole/proprietary/vendor/firmware/ipa_uc.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/ipa_uc.b01 \
+    vendor/oneplus/guacamole/proprietary/vendor/firmware/ipa_uc.elf:$(TARGET_COPY_OUT_VENDOR)/firmware/ipa_uc.elf \
+    vendor/oneplus/guacamole/proprietary/vendor/firmware/ipa_uc.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/ipa_uc.mdt \
     vendor/oneplus/guacamole/proprietary/vendor/firmware/ringtone_Guitar_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/ringtone_Guitar_RTP.bin \
     vendor/oneplus/guacamole/proprietary/vendor/firmware/ringtone_Harping_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/ringtone_Harping_RTP.bin \
     vendor/oneplus/guacamole/proprietary/vendor/firmware/shuntai24k_rtp.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/shuntai24k_rtp.bin \
